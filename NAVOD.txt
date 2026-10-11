@@ -1,0 +1,22 @@
+Stránka Rebeka Tóthová – ako ju zverejniť na GitHub Pages
+=========================================================
+
+Všetko (texty, fotky, mramor) je v jednom súbore index.html.
+
+1. Prihlás sa na github.com. Vpravo hore klikni na „+“ → „New repository“.
+   Zadaj názov (napr. rebeka-tothova), nechaj „Public“ a klikni „Create repository“.
+
+2. Klikni na „uploading an existing file“ (alebo „Add file“ → „Upload files“)
+   a pretiahni tam súbor index.html. Dole klikni na zelené „Commit changes“.
+   POZOR: nahraj samotný index.html, nie celý zip (GitHub zip nerozbalí).
+
+3. Otvor „Settings“ → vľavo „Pages“.
+   Source: „Deploy from a branch“, Branch: „main“, priečinok „/ (root)“ → „Save“.
+
+4. Po 1–2 minútach sa tam zobrazí odkaz v tvare
+   https://nazov-uctu.github.io/rebeka-tothova/
+   Ten daj Rebeke do Instagram bio.
+   Anglická verzia je ten istý odkaz s koncovkou  ?lang=en
+
+Neskoršie úpravy: nahraj nový index.html cez „Add file“ → „Upload files“, starý sa prepíše.
+Promo do 20. 10. sa po termíne na stránke skryje samo.
